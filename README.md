@@ -46,7 +46,9 @@ The main details regarding this include the following:
 The rest of the circuit should be able to be recreated from the Fritzing Diagram above.
 
 ### Now Load the Arduino Code attached
+Open the file 'Pomodoro_Timer_LCD_V5' in your arduino IDE, verify and load to your arduino board and start it up!
 
 ## You're finished
+You're ready to try out your new Pomodoro Method Timer to improve your workflow when working on multiple tasks. Maybe try and mess with some of the parameters, or find some other applications for this project. Cheers mate!
 <div style="text-align:center"><img src ="PomodoroTimerTopView.jpg" /></div>
 
